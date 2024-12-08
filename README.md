@@ -1,4 +1,5 @@
 # Programming for AI - CA
+- [Github Repo](https://github.com/iAnisdev/ca_ms_ai_programing_for_ai)
 
 ## Prerequisites
 - **Python Version**: Python 3.11.x
